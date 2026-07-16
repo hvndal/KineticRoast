@@ -51,17 +51,9 @@ Built for performance and visual fidelity, utilizing the latest frontend archite
 
 *Below are visual captures of the experience.*
 
-### The Cinematic Hero
-![Hero Section](https://i.imgur.com/shader_heatmap.png)
-*Featuring the procedural heat map shader.*
-
-### The Collection
-![The Collection](https://i.imgur.com/alignment_check_1.png)
-*Tonal layering and glassmorphic product cards.*
-
-### The Ritual (3D Centerpiece)
-![3D Pour Over](https://i.imgur.com/lighting_tweak.png)
-*Real-time rendering of copper and liquid transmission.*
+### Full Page Design
+![Ember UI Design](./public/images/screen.png)
+*Reference art direction and layout.*
 
 ---
 
