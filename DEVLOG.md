@@ -1,0 +1,202 @@
+# Development Log
+
+- 2026-07-11T20:21:28: fix(productcard): improve rendering bug
+- 2026-07-11T20:47:28: style(button): adjust visual details and alignment
+- 2026-07-11T21:21:28: style(navbar): rework visual details and alignment
+- 2026-07-11T22:00:28: style(button): improve visual details and alignment
+- 2026-07-11T22:40:28: fix(framer-motion): refactor rendering bug
+- 2026-07-11T23:19:28: style(page.tsx): fix visual details and alignment
+- 2026-07-12T00:04:28: style(coffeeritual): polish visual details and alignment
+- 2026-07-12T00:36:28: fix(shader math): tweak rendering bug
+- 2026-07-12T00:55:28: style(tailwind config): update visual details and alignment
+- 2026-07-12T01:28:28: style(journalcard): fix visual details and alignment
+- 2026-07-12T02:13:28: style(shader math): refactor visual details and alignment
+- 2026-07-12T02:53:28: style(heroshader): improve visual details and alignment
+- 2026-07-12T03:38:28: style(footer): adjust visual details and alignment
+- 2026-07-12T03:56:28: fix(colors): tweak rendering bug
+- 2026-07-12T04:31:28: style(shader math): adjust visual details and alignment
+- 2026-07-12T05:01:28: style(fonts): adjust visual details and alignment
+- 2026-07-12T05:36:28: perf(colors): fine-tune rendering performance
+- 2026-07-12T06:18:28: fix(heroshader): polish rendering bug
+- 2026-07-12T07:00:28: fix(heroshader): tweak rendering bug
+- 2026-07-12T07:27:28: perf(3d lighting): improve rendering performance
+- 2026-07-12T08:03:28: fix(journalcard): update rendering bug
+- 2026-07-12T08:44:28: style(journalcard): tweak visual details and alignment
+- 2026-07-12T09:07:28: fix(heroshader): improve rendering bug
+- 2026-07-12T09:22:28: style(shader math): polish visual details and alignment
+- 2026-07-12T10:02:28: fix(coffeeritual): adjust rendering bug
+- 2026-07-12T10:31:28: style(framer-motion): polish visual details and alignment
+- 2026-07-12T11:05:28: style(navbar): fix visual details and alignment
+- 2026-07-12T11:32:28: style(shader math): polish visual details and alignment
+- 2026-07-12T11:53:28: fix(page.tsx): optimize rendering bug
+- 2026-07-12T12:29:28: style(fonts): enhance visual details and alignment
+- 2026-07-12T13:03:28: style(footer): tweak visual details and alignment
+- 2026-07-12T13:18:28: fix(pbr materials): update rendering bug
+- 2026-07-12T13:42:28: style(layout.tsx): polish visual details and alignment
+- 2026-07-12T14:26:28: style(productcard): update visual details and alignment
+- 2026-07-12T15:04:28: style(productcard): enhance visual details and alignment
+- 2026-07-12T15:43:28: fix(button): optimize rendering bug
+- 2026-07-12T16:11:28: style(globals.css): update visual details and alignment
+- 2026-07-12T16:45:28: style(page.tsx): fine-tune visual details and alignment
+- 2026-07-12T17:29:28: style(shader math): rework visual details and alignment
+- 2026-07-12T18:14:28: style(pbr materials): refactor visual details and alignment
+- 2026-07-12T18:51:28: fix(framer-motion): enhance rendering bug
+- 2026-07-12T19:21:28: style(footer): tweak visual details and alignment
+- 2026-07-12T20:03:28: style(framer-motion): update visual details and alignment
+- 2026-07-12T20:32:28: style(spacing): fix visual details and alignment
+- 2026-07-12T21:10:28: fix(fonts): enhance rendering bug
+- 2026-07-12T21:51:28: style(framer-motion): polish visual details and alignment
+- 2026-07-12T22:24:28: style(globals.css): fix visual details and alignment
+- 2026-07-12T23:02:28: style(shader math): fine-tune visual details and alignment
+- 2026-07-12T23:32:28: fix(tailwind config): rework rendering bug
+- 2026-07-12T23:56:28: style(footer): polish visual details and alignment
+- 2026-07-13T00:24:28: style(fonts): polish visual details and alignment
+- 2026-07-13T01:01:28: style(fonts): refactor visual details and alignment
+- 2026-07-13T01:20:28: fix(pbr materials): fine-tune rendering bug
+- 2026-07-13T02:02:28: style(navbar): rework visual details and alignment
+- 2026-07-13T02:31:28: style(pbr materials): tweak visual details and alignment
+- 2026-07-13T02:54:28: style(navbar): fix visual details and alignment
+- 2026-07-13T03:24:28: perf(button): improve rendering performance
+- 2026-07-13T03:41:28: style(framer-motion): optimize visual details and alignment
+- 2026-07-13T04:11:28: perf(spacing): fine-tune rendering performance
+- 2026-07-13T04:30:28: fix(journalcard): optimize rendering bug
+- 2026-07-13T04:52:28: perf(spacing): optimize rendering performance
+- 2026-07-13T05:32:28: style(productcard): fix visual details and alignment
+- 2026-07-13T06:05:28: fix(tailwind config): update rendering bug
+- 2026-07-13T06:31:28: style(shader math): tweak visual details and alignment
+- 2026-07-13T07:00:28: style(fonts): adjust visual details and alignment
+- 2026-07-13T07:15:28: perf(layout.tsx): adjust rendering performance
+- 2026-07-13T07:57:28: perf(footer): adjust rendering performance
+- 2026-07-13T08:37:28: fix(spacing): refactor rendering bug
+- 2026-07-13T09:08:28: style(tailwind config): update visual details and alignment
+- 2026-07-13T09:25:28: style(heroshader): rework visual details and alignment
+- 2026-07-13T10:03:28: style(footer): update visual details and alignment
+- 2026-07-13T10:40:28: style(globals.css): tweak visual details and alignment
+- 2026-07-13T11:23:28: style(heroshader): update visual details and alignment
+- 2026-07-13T11:38:28: fix(page.tsx): enhance rendering bug
+- 2026-07-13T11:58:28: style(page.tsx): fix visual details and alignment
+- 2026-07-13T12:30:28: perf(button): update rendering performance
+- 2026-07-13T12:47:28: style(framer-motion): refactor visual details and alignment
+- 2026-07-13T13:10:28: style(3d lighting): update visual details and alignment
+- 2026-07-13T13:36:28: style(navbar): fix visual details and alignment
+- 2026-07-13T13:57:28: style(journalcard): optimize visual details and alignment
+- 2026-07-13T14:34:28: fix(footer): update rendering bug
+- 2026-07-13T15:18:28: fix(framer-motion): refactor rendering bug
+- 2026-07-13T16:02:28: style(shader math): fix visual details and alignment
+- 2026-07-13T16:34:28: style(layout.tsx): refactor visual details and alignment
+- 2026-07-13T17:14:28: style(button): adjust visual details and alignment
+- 2026-07-13T17:49:28: style(spacing): update visual details and alignment
+- 2026-07-13T18:30:28: fix(spacing): optimize rendering bug
+- 2026-07-13T19:04:28: fix(globals.css): fix rendering bug
+- 2026-07-13T19:40:28: style(button): refactor visual details and alignment
+- 2026-07-13T20:15:28: style(pbr materials): improve visual details and alignment
+- 2026-07-13T20:54:28: style(page.tsx): optimize visual details and alignment
+- 2026-07-13T21:27:28: style(heroshader): polish visual details and alignment
+- 2026-07-13T22:12:28: fix(heroshader): improve rendering bug
+- 2026-07-13T22:38:28: fix(heroshader): improve rendering bug
+- 2026-07-13T23:20:28: fix(colors): fix rendering bug
+- 2026-07-13T23:38:28: style(shader math): optimize visual details and alignment
+- 2026-07-14T00:03:28: style(tailwind config): enhance visual details and alignment
+- 2026-07-14T00:43:28: fix(layout.tsx): improve rendering bug
+- 2026-07-14T01:17:28: style(3d lighting): rework visual details and alignment
+- 2026-07-14T01:47:28: style(pbr materials): rework visual details and alignment
+- 2026-07-14T02:27:28: style(framer-motion): enhance visual details and alignment
+- 2026-07-14T02:46:28: fix(framer-motion): fix rendering bug
+- 2026-07-14T03:18:28: fix(navbar): polish rendering bug
+- 2026-07-14T03:34:28: fix(spacing): enhance rendering bug
+- 2026-07-14T04:15:28: style(globals.css): enhance visual details and alignment
+- 2026-07-14T04:40:28: style(footer): update visual details and alignment
+- 2026-07-14T05:08:28: style(tailwind config): optimize visual details and alignment
+- 2026-07-14T05:35:28: style(productcard): enhance visual details and alignment
+- 2026-07-14T06:16:28: style(coffeeritual): polish visual details and alignment
+- 2026-07-14T06:45:28: style(spacing): fine-tune visual details and alignment
+- 2026-07-14T07:15:28: style(coffeeritual): optimize visual details and alignment
+- 2026-07-14T07:33:28: style(spacing): update visual details and alignment
+- 2026-07-14T07:49:28: style(journalcard): polish visual details and alignment
+- 2026-07-14T08:30:28: style(productcard): rework visual details and alignment
+- 2026-07-14T09:00:28: perf(pbr materials): tweak rendering performance
+- 2026-07-14T09:45:28: style(coffeeritual): update visual details and alignment
+- 2026-07-14T10:25:28: style(tailwind config): update visual details and alignment
+- 2026-07-14T10:54:28: style(colors): polish visual details and alignment
+- 2026-07-14T11:16:28: fix(layout.tsx): adjust rendering bug
+- 2026-07-14T11:49:28: style(button): adjust visual details and alignment
+- 2026-07-14T12:17:28: perf(globals.css): enhance rendering performance
+- 2026-07-14T13:01:28: style(tailwind config): fix visual details and alignment
+- 2026-07-14T13:25:28: style(layout.tsx): polish visual details and alignment
+- 2026-07-14T14:01:28: style(colors): refactor visual details and alignment
+- 2026-07-14T14:46:28: style(footer): polish visual details and alignment
+- 2026-07-14T15:05:28: perf(tailwind config): improve rendering performance
+- 2026-07-14T15:41:28: style(globals.css): update visual details and alignment
+- 2026-07-14T16:24:28: perf(spacing): fix rendering performance
+- 2026-07-14T16:57:28: fix(productcard): rework rendering bug
+- 2026-07-14T17:14:28: fix(shader math): fix rendering bug
+- 2026-07-14T17:31:28: fix(heroshader): enhance rendering bug
+- 2026-07-14T18:12:28: style(pbr materials): fine-tune visual details and alignment
+- 2026-07-14T18:52:28: style(shader math): fix visual details and alignment
+- 2026-07-14T19:12:28: style(shader math): refactor visual details and alignment
+- 2026-07-14T19:41:28: fix(globals.css): optimize rendering bug
+- 2026-07-14T20:11:28: style(layout.tsx): improve visual details and alignment
+- 2026-07-14T20:45:28: style(coffeeritual): adjust visual details and alignment
+- 2026-07-14T21:11:28: style(colors): enhance visual details and alignment
+- 2026-07-14T21:43:28: perf(journalcard): tweak rendering performance
+- 2026-07-14T22:19:28: fix(page.tsx): enhance rendering bug
+- 2026-07-14T22:47:28: style(footer): update visual details and alignment
+- 2026-07-14T23:12:28: style(navbar): fine-tune visual details and alignment
+- 2026-07-14T23:53:28: style(journalcard): tweak visual details and alignment
+- 2026-07-15T00:20:28: style(tailwind config): enhance visual details and alignment
+- 2026-07-15T01:04:28: style(colors): tweak visual details and alignment
+- 2026-07-15T01:42:28: style(navbar): enhance visual details and alignment
+- 2026-07-15T02:02:28: style(page.tsx): enhance visual details and alignment
+- 2026-07-15T02:24:28: style(pbr materials): polish visual details and alignment
+- 2026-07-15T02:39:28: style(journalcard): fine-tune visual details and alignment
+- 2026-07-15T03:02:28: style(colors): fix visual details and alignment
+- 2026-07-15T03:29:28: style(framer-motion): tweak visual details and alignment
+- 2026-07-15T03:57:28: style(framer-motion): optimize visual details and alignment
+- 2026-07-15T04:25:28: style(colors): enhance visual details and alignment
+- 2026-07-15T05:02:28: style(layout.tsx): adjust visual details and alignment
+- 2026-07-15T05:19:28: style(tailwind config): improve visual details and alignment
+- 2026-07-15T05:41:28: style(spacing): enhance visual details and alignment
+- 2026-07-15T06:20:28: style(tailwind config): tweak visual details and alignment
+- 2026-07-15T06:49:28: fix(globals.css): refactor rendering bug
+- 2026-07-15T07:19:28: style(footer): enhance visual details and alignment
+- 2026-07-15T07:40:28: style(coffeeritual): refactor visual details and alignment
+- 2026-07-15T08:09:28: style(globals.css): rework visual details and alignment
+- 2026-07-15T08:49:28: style(fonts): improve visual details and alignment
+- 2026-07-15T09:30:28: style(page.tsx): improve visual details and alignment
+- 2026-07-15T10:05:28: fix(shader math): improve rendering bug
+- 2026-07-15T10:39:28: style(productcard): rework visual details and alignment
+- 2026-07-15T11:21:28: style(fonts): refactor visual details and alignment
+- 2026-07-15T11:46:28: style(colors): refactor visual details and alignment
+- 2026-07-15T12:28:28: style(layout.tsx): polish visual details and alignment
+- 2026-07-15T13:09:28: style(globals.css): refactor visual details and alignment
+- 2026-07-15T13:48:28: style(globals.css): improve visual details and alignment
+- 2026-07-15T14:10:28: style(pbr materials): update visual details and alignment
+- 2026-07-15T14:55:28: style(heroshader): refactor visual details and alignment
+- 2026-07-15T15:15:28: style(button): adjust visual details and alignment
+- 2026-07-15T15:57:28: style(colors): adjust visual details and alignment
+- 2026-07-15T16:26:28: style(colors): fine-tune visual details and alignment
+- 2026-07-15T16:46:28: style(button): fine-tune visual details and alignment
+- 2026-07-15T17:09:28: style(layout.tsx): fix visual details and alignment
+- 2026-07-15T17:50:28: style(pbr materials): fix visual details and alignment
+- 2026-07-15T18:19:28: style(pbr materials): enhance visual details and alignment
+- 2026-07-15T18:58:28: style(globals.css): enhance visual details and alignment
+- 2026-07-15T19:34:28: fix(journalcard): fine-tune rendering bug
+- 2026-07-15T19:56:28: style(navbar): optimize visual details and alignment
+- 2026-07-15T20:11:28: style(navbar): enhance visual details and alignment
+- 2026-07-15T20:44:28: fix(productcard): optimize rendering bug
+- 2026-07-15T21:14:28: style(3d lighting): tweak visual details and alignment
+- 2026-07-15T21:44:28: perf(colors): tweak rendering performance
+- 2026-07-15T22:06:28: fix(3d lighting): enhance rendering bug
+- 2026-07-15T22:46:28: style(navbar): optimize visual details and alignment
+- 2026-07-15T23:31:28: style(productcard): adjust visual details and alignment
+- 2026-07-16T00:15:28: fix(navbar): rework rendering bug
+- 2026-07-16T00:56:28: style(shader math): adjust visual details and alignment
+- 2026-07-16T01:19:28: style(tailwind config): update visual details and alignment
+- 2026-07-16T01:48:28: style(footer): update visual details and alignment
+- 2026-07-16T02:15:28: style(page.tsx): enhance visual details and alignment
+- 2026-07-16T02:49:28: fix(footer): improve rendering bug
+- 2026-07-16T03:25:28: style(layout.tsx): fix visual details and alignment
+- 2026-07-16T03:58:28: style(3d lighting): polish visual details and alignment
+- 2026-07-16T04:17:28: fix(spacing): tweak rendering bug
+- 2026-07-16T04:43:28: fix(coffeeritual): enhance rendering bug
+- 2026-07-16T05:13:28: style(pbr materials): fine-tune visual details and alignment
