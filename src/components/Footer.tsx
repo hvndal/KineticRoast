@@ -8,16 +8,16 @@ export function Footer() {
         <div className="max-w-xs">
           <div className="font-display-xl text-headline-lg text-primary mb-6 tracking-tighter">EMBER</div>
           <p className="font-body-md text-outline">
-            A roasting house dedicated to the intersection of thermal science and the human spirit.
+            A specialty roasting house dedicated to the intersection of thermal science and the human spirit. Roasted & crafted in Vancouver, British Columbia.
           </p>
         </div>
 
         <div className="grid grid-cols-2 md:grid-cols-3 gap-x-16 gap-y-8">
           <div className="flex flex-col gap-4">
             <p className="font-label-caps text-primary">COMPANY</p>
+            <Link className="font-body-md text-outline hover:text-primary transition-colors duration-300" href="#">Roastery</Link>
             <Link className="font-body-md text-outline hover:text-primary transition-colors duration-300" href="#">Sustainability</Link>
-            <Link className="font-body-md text-outline hover:text-primary transition-colors duration-300" href="#">Shipping</Link>
-            <Link className="font-body-md text-outline hover:text-primary transition-colors duration-300" href="#">Wholesale</Link>
+            <Link className="font-body-md text-outline hover:text-primary transition-colors duration-300" href="#">Shipping & Wholesale</Link>
             <Link className="font-body-md text-outline hover:text-primary transition-colors duration-300" href="#">Careers</Link>
           </div>
           <div className="flex flex-col gap-4">
@@ -35,11 +35,47 @@ export function Footer() {
 
       </div>
 
-      <div className="mt-stack-md pt-8 border-t border-outline/5 px-margin-mobile md:px-margin-desktop max-w-container-max mx-auto flex flex-col md:flex-row justify-between items-center gap-4">
-        <p className="font-label-caps text-outline">© {new Date().getFullYear()} EMBER COFFEE ROASTERS. ALL RIGHTS RESERVED.</p>
-        <div className="flex gap-8">
-          <span className="font-label-caps text-primary opacity-50">EST. 2012</span>
-          <span className="font-label-caps text-primary opacity-50">ORIGIN: VOLCANIC</span>
+      <div className="mt-stack-md pt-8 border-t border-outline/5 px-margin-mobile md:px-margin-desktop max-w-container-max mx-auto flex flex-col md:flex-row justify-between items-center gap-6">
+        <div className="flex flex-col md:flex-row items-center gap-2 md:gap-4">
+          <p className="font-label-caps text-outline text-xs">© {new Date().getFullYear()} EMBER COFFEE ROASTERS. ALL RIGHTS RESERVED.</p>
+          <span className="hidden md:inline text-outline/30">•</span>
+          <span className="font-label-caps text-primary/70 text-xs">VANCOUVER, BC</span>
+        </div>
+
+        <div className="flex flex-col sm:flex-row items-center gap-4 text-xs">
+          <div className="flex gap-4">
+            <span className="font-label-caps text-primary opacity-50">EST. 2012</span>
+            <span className="font-label-caps text-primary opacity-50">ORIGIN: VOLCANIC</span>
+          </div>
+          <span className="hidden sm:inline text-outline/30">•</span>
+          <p className="font-label-caps text-outline text-xs">
+            Site by{" "}
+            <a
+              href="https://www.mander.tech"
+              target="_blank"
+              rel="noopener"
+              className="text-primary hover:underline transition-colors font-medium"
+            >
+              MANDER
+            </a>
+            {" "}(<a
+              href="https://www.mander.tech/locations/metro-vancouver/vancouver"
+              target="_blank"
+              rel="noopener"
+              className="hover:text-primary transition-colors"
+            >
+              Vancouver
+            </a>
+            {" / "}
+            <a
+              href="https://www.mander.tech/locations/metro-vancouver/langley"
+              target="_blank"
+              rel="noopener"
+              className="hover:text-primary transition-colors"
+            >
+              Langley, BC
+            </a>)
+          </p>
         </div>
       </div>
     </footer>

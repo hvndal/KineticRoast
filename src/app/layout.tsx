@@ -16,8 +16,26 @@ const bebasNeue = Bebas_Neue({
 });
 
 export const metadata: Metadata = {
-  title: "EMBER | The Kinetic Roast",
-  description: "A roasting house dedicated to the intersection of thermal science and the human spirit.",
+  title: "EMBER | Specialty Coffee Roasters — Vancouver, BC",
+  description: "A specialty coffee roasting house based in Vancouver, British Columbia, dedicated to the intersection of thermal science and the human spirit.",
+};
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "CoffeeShop",
+  "name": "Ember Coffee Roasters",
+  "description": "Specialty micro-lot coffee roasting house based in Vancouver, British Columbia.",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Vancouver",
+    "addressRegion": "BC",
+    "addressCountry": "CA"
+  },
+  "creator": {
+    "@type": "Organization",
+    "name": "MANDER",
+    "url": "https://www.mander.tech"
+  }
 };
 
 export default function RootLayout({
@@ -30,6 +48,12 @@ export default function RootLayout({
       lang="en"
       className={`${geistSans.variable} ${bebasNeue.variable} h-full antialiased dark`}
     >
+      <head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
+      </head>
       <body className="min-h-full flex flex-col relative selection:bg-primary selection:text-black">
         <NoiseOverlay />
         <Navbar />

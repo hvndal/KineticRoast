@@ -109,7 +109,7 @@ export default function Home() {
               <h2 className="font-label-caps text-primary tracking-widest">CURRENT HARVEST</h2>
               <h3 className="font-display-xl text-headline-lg text-on-surface">THE COLLECTION</h3>
               <p className="font-body-md text-outline">
-                Micro-lot selections, roasted to order. Quantities are strictly limited to ensure peak kinetic vitality upon delivery.
+                Micro-lot selections, roasted to order at our Vancouver roastery. Quantities are strictly limited to ensure peak kinetic vitality upon delivery.
               </p>
             </motion.div>
             <motion.div
